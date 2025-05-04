@@ -9,6 +9,11 @@ Welcome to the **Python Modules** repository! This collection showcases various 
 1. **Turtle Module**
    - **Description:** Explores Python's `turtle` module to create graphics and drawings programmatically.&#8203;:contentReference[oaicite:0]{index=0}
    - **Repository Link:** [Turtle Module](https://github.com/uvpatel/Python-Modules/tree/main/Turtle%20module)
+     
+2. **Streamlit Module**
+   - **Description:** Explores Python's `streamlit` library to build interactive web applications and data dashboards with minimal code.
+   - **Repository Link:** [Streamlit Module](https://github.com/uvpatel/Python-Modules/tree/main/Streamlit)
+
 
 *Note: Additional modules will be added as the repository evolves.*
 
@@ -34,6 +39,7 @@ Welcome to the **Python Modules** repository! This collection showcases various 
 | `tkinter` | GUI development | Windows, buttons, labels |
 | `flask` | Web framework | API development, routing |
 | `socket` | Network programming | Sockets, server-client communication |
+| `streamlit` |Web app framework for Python| UI components, interactive widgets, data apps|
 
 ---
 
