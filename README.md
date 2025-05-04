@@ -12,7 +12,7 @@ Welcome to the **Python Modules** repository! This collection showcases various 
      
 2. **Streamlit Module**
    - **Description:** Explores Python's `streamlit` library to build interactive web applications and data dashboards with minimal code.
-   - **Repository Link:** [Streamlit Module](https://github.com/uvpatel/Python-Modules/tree/main/Streamlit)
+   - **Repository Link:** [Streamlit Module](https://github.com/uvpatel/Python-Modules/tree/main/streamlit)
 
 
 *Note: Additional modules will be added as the repository evolves.*
