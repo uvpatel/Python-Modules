@@ -64,7 +64,7 @@ The `requests.get()` function fetches live exchange rates from the `exchangerate
 To run this Streamlit app, follow these steps:
 
 1. **Save the Code:**  
-   Save the Python code above in a file named `currency_converter.py`.
+   Save the Python code above in a file named `main.py`.
 
 2. **Install Dependencies (if not installed):**  
    If you haven't installed Streamlit and Requests yet, open a terminal and type:
@@ -77,7 +77,7 @@ To run this Streamlit app, follow these steps:
    Open a terminal, navigate to the folder where `currency_converter.py` is saved, and run:
 
    ```bash
-   streamlit run currency_converter.py
+   streamlit run main.py
    ```
 
    The app will automatically open in your default web browser!
