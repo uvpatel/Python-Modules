@@ -1,0 +1,29 @@
+module_name: 📁 shutil_module_basics
+language: 🐍 Python
+description: >
+  A beginner-friendly Python module demonstrating 📄 file and 📂 directory operations 
+  like copying, moving, and deleting using built-in modules.
+
+requirements:
+  built_in_libraries:
+    - 🛠️ shutil
+    - 📦 os
+  external_libraries: []
+
+usage_scenarios:
+  - 🔁 File backup automation
+  - 🗂️ Directory manipulation
+  - 🤖 Scripting and DevOps tasks
+  - 📚 Learning file operations
+
+perfect_for:
+  - 👶 Python beginners
+  - ⚙️ Automation learners
+  - 💻 Scripting practice
+
+status: ✅ stable
+author: ✍️ Urvil Patel
+repository: 🔗 https://github.com/uvpatel/Python-Modules/tree/main/shutil
+  license: 📜 MIT
+  last_updated: 📅 2025-5-09
+  version: 🔢 1.0.0
